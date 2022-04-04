@@ -1,0 +1,23 @@
+{
+  "name": "server-side-calculator",
+  "version": "1.0.0",
+  "description": "My first server-side project that simulates a calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abernklau1/server-side-calculator.git"
+  },
+  "author": "Andrew Bernklau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abernklau1/server-side-calculator/issues"
+  },
+  "homepage": "https://github.com/abernklau1/server-side-calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}
